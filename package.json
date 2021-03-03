@@ -1,0 +1,19 @@
+{
+  "name": "2fa-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "2fa-hotp-totp": "^1.0.5",
+    "generate-totp": "^1.0.21",
+    "otplib": "^12.0.1",
+    "speakeasy": "^2.0.0",
+    "totp-generator": "0.0.8"
+  }
+}
